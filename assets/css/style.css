@@ -1,0 +1,24 @@
+body {
+    background-color: aqua;
+}
+
+p {
+    font-size: 20px;
+}
+
+span {
+    font-size: 25px;
+}
+
+a {
+    font-size: 30px;
+}
+
+@keyframes animation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(180deg);
+    }
+}
