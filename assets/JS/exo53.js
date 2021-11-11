@@ -11,7 +11,7 @@ for (let i = 0; i < p.length; i++) {
 
 for (let i = 0; i < span.length; i++) {
     span[i].style.backgroundColor = "red";
-    span[i].style.dir = "rtl";
+    span[i].dir = "rtl";
 }
 
 for (let i = 0; i < a.length; i++) {
